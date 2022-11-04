@@ -1,0 +1,7 @@
+[
+  {
+    "DetailType": "Example",
+    "Source": "example-prefix",
+    "Detail": "{\"foo\": \"bar\"}"
+  }
+]
